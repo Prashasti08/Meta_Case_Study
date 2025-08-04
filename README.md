@@ -2,7 +2,8 @@
 
 ## **Project Summary**
 
-I developed and presented data-driven **Strategies** to Janelle Gale, Meta's VP of HR Dept to transform their year of efficiency into year of engagement post 2023 massive layoffs
+Performed descriptive analysis (N= 7,500) to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding identification and retention of top talent as well as elevation
+of employee engagement post 2023 massive layoffs. Delivered and presented actionable recommendations to Janelle for top talent identification, retention and enhance employee engagement rate across funcitons  
 
 ## Key Insights
 1) The highest percentage of employees belong to the ‘Meets Expectations’ (i.e. performance
@@ -34,4 +35,4 @@ turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in l
 
 
 
-**Skills:** People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Organizational Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel (Pivot Tables), SPSS, AI Tools
+**Skills: People Analytics, Data Analysis, Data Storytelling, Statistical Analysis, Organizational Psychology, HR Strategy, Talent Management, Employee Engagement, Retention, Excel (Pivot Tables), SPSS, AI Tools
