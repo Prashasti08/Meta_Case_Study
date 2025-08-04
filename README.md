@@ -4,7 +4,7 @@
 
 I developed and presented data-driven **Strategies** to Janelle Gale, Meta's VP of HR Dept to transform their year of efficiency into year of engagement post 2023 massive layoffs
 
-## **Key Insights:-
+## **Key Insights
 1) The highest percentage of employees belong to the ‘Meets Expectations’ (i.e. performance
 appraisal rating 1) category (83.4%)
 2) The mean values suggest that among all three categories of employees, Top Performers have the
@@ -20,7 +20,7 @@ turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in l
 c) In terms of Age, Millennials are in majority (94.7%) and Generation Z are in minority
 (1.3%)
 
-## ** Actionable Recommendations:-
+## ** Actionable Recommendations
     1. Harness the power of AI
     2. Custom Recognition and Rewards Systems
     3. Diversity and Inclusion Management
