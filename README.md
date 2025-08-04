@@ -35,4 +35,5 @@ turnover intentions (3.65) and lowest immediate supervisor (1.67) and trust in l
 
 
 
-## Skills: Data Analysis, Data Storytelling, Statistical Analysis, Talent Management, Employee Engagement, Excel (Pivot Tables), SPSS, AI Tools
+## Skills
+ Data Analysis, Data Storytelling, Statistical Analysis, Talent Management, Employee Engagement, Excel (Pivot Tables), SPSS, AI Tools
