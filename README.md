@@ -2,8 +2,8 @@
 
 ## **Project Summary**
 
-Performed descriptive analysis (N= 7,500) to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding identification and retention of top talent as well as elevation
-of employee engagement post 2023 massive layoffs. Delivered and presented actionable recommendations to Janelle for top talent identification, retention and enhance employee engagement rate across funcitons  
+- Conducted descriptive analysis to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding Top Talent Identification and Retention post 2023 layoffs
+- Delivered and presented actionable recommendations to Janelle for top talent identification, retention and enhance employee engagement rate across funcitons  
 
 ## Actionable Recommendations
     1. Harness the power of AI
@@ -19,6 +19,6 @@ of employee engagement post 2023 massive layoffs. Delivered and presented action
 
 ## **Project Deliverables**
 
-* **[Full Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
+* **[Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
 * **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
 
