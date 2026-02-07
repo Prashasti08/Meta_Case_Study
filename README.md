@@ -2,7 +2,7 @@
 
 ## **Project Summary**
 
-- Conducted descriptive analysis to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding Top Talent Identification and Retention post 2023 layoffs
+- Conducted Descriptive Analysis using Advanced Excel and SPSS to adress Janelle Gale's (Meta's VP of HR Dept.) concerns regarding Top Talent Identification and Retention post 2023 layoffs
 - Delivered and presented actionable recommendations to Janelle for top talent identification, retention and enhance employee engagement rate across funcitons  
 
 ## Actionable Recommendations
