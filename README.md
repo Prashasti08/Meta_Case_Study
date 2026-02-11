@@ -21,7 +21,7 @@ Following Meta’s "Year of Efficiency" and subsequent layoffs, VP of HR Janelle
 ### **📂 Project Deliverables**
 | **Asset** | **Description** |
 | :--- | :--- |
-| 📄 **[Executive Case Study (PDF)](Meta%20Case%20Study%20Analysis.pdf)** | Full statistical breakdown, SPSS outputs, and methodology. |
-| 📈 **[Leadership Presentation (PDF)](Meta%20Case%20Study%20Presentation.pdf)** | The high-impact deck presented to Meta HR Leadership. |
+| 📄 **[Executive Case Study (PDF)](Meta%20Case%20Study%20Analysis.pdf)** | Full statistical breakdown, SPSS outputs, and methodology|
+| 📈 **[Leadership Presentation (PDF)](Meta%20Case%20Study%20Presentation.pdf)** | The high-impact deck presented to Meta HR Leadership|
 
 ---
